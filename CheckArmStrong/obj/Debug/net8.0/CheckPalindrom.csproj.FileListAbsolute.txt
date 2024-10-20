@@ -1,0 +1,14 @@
+D:\Interview\AllProgramm\CheckArmStrong\bin\Debug\net8.0\CheckPalindrom.exe
+D:\Interview\AllProgramm\CheckArmStrong\bin\Debug\net8.0\CheckPalindrom.deps.json
+D:\Interview\AllProgramm\CheckArmStrong\bin\Debug\net8.0\CheckPalindrom.runtimeconfig.json
+D:\Interview\AllProgramm\CheckArmStrong\bin\Debug\net8.0\CheckPalindrom.dll
+D:\Interview\AllProgramm\CheckArmStrong\bin\Debug\net8.0\CheckPalindrom.pdb
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\CheckPalindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\CheckPalindrom.AssemblyInfoInputs.cache
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\CheckPalindrom.AssemblyInfo.cs
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\CheckPalindrom.csproj.CoreCompileInputs.cache
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\CheckPalindrom.dll
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\refint\CheckPalindrom.dll
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\CheckPalindrom.pdb
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\CheckPalindrom.genruntimeconfig.cache
+D:\Interview\AllProgramm\CheckArmStrong\obj\Debug\net8.0\ref\CheckPalindrom.dll
