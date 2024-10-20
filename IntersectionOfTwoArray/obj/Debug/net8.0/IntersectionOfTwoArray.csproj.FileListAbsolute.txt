@@ -1,0 +1,14 @@
+D:\Interview\AllProgramm\IntersectionOfTwoArray\bin\Debug\net8.0\IntersectionOfTwoArray.exe
+D:\Interview\AllProgramm\IntersectionOfTwoArray\bin\Debug\net8.0\IntersectionOfTwoArray.deps.json
+D:\Interview\AllProgramm\IntersectionOfTwoArray\bin\Debug\net8.0\IntersectionOfTwoArray.runtimeconfig.json
+D:\Interview\AllProgramm\IntersectionOfTwoArray\bin\Debug\net8.0\IntersectionOfTwoArray.dll
+D:\Interview\AllProgramm\IntersectionOfTwoArray\bin\Debug\net8.0\IntersectionOfTwoArray.pdb
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\IntersectionOfTwoArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\IntersectionOfTwoArray.AssemblyInfoInputs.cache
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\IntersectionOfTwoArray.AssemblyInfo.cs
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\IntersectionOfTwoArray.csproj.CoreCompileInputs.cache
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\IntersectionOfTwoArray.dll
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\refint\IntersectionOfTwoArray.dll
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\IntersectionOfTwoArray.pdb
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\IntersectionOfTwoArray.genruntimeconfig.cache
+D:\Interview\AllProgramm\IntersectionOfTwoArray\obj\Debug\net8.0\ref\IntersectionOfTwoArray.dll

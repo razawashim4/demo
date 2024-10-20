@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Interview\\AllProgramm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CAF475-1A3B-4AA9-BF54-5A9A8AABC828}|SentanceReverse\\SentanceReverse.csproj|d:\\dotnet\\interview\\allprogramm\\sentancereverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CAF475-1A3B-4AA9-BF54-5A9A8AABC828}|SentanceReverse\\SentanceReverse.csproj|solutionrelative:sentancereverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Interview\\AllProgramm\\SentanceReverse\\Program.cs",
+              "RelativeDocumentMoniker": "SentanceReverse\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Interview\\AllProgramm\\SentanceReverse\\Program.cs",
+              "RelativeToolTip": "SentanceReverse\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:46:27.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
